@@ -45,3 +45,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://futuristic-primrose-81677.netlify.app'
